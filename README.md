@@ -1,6 +1,7 @@
 # code-project-unlimited
 
 Hi there 👋
+
 This first of many codes defines this Python application that uses BERT embeddings to validate the relevance of user responses to agent questions in conversations stored in an Excel file. Here’s a breakdown of how it works:
 
 Main Components: ConversationRelevanceValidator Class:
